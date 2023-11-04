@@ -1,1 +1,2 @@
 # solman
+cd stocazzo
